@@ -1,0 +1,64 @@
+		body { font-family: Times; font-size: 12pt;  }
+		p.normal { margin-left:30pt; text-align: justify; margin-bottom: 4pt;  margin-top:0pt; margin-right:25pt; }
+		p.kepada1 {line-height: 1.8; margin-left:60pt; text-align: justify; margin-bottom: 4pt;  margin-top:0pt; margin-right:25pt; }
+		p.small {line-height: 1.8; margin-left:30pt; text-align: justify; margin-bottom: 0pt;  margin-top:0pt; margin-right:25pt; }
+		p.small1 {line-height: 1.8; margin-left:30pt; text-align: justify; line-height: 120%;  margin-bottom: 0pt;  margin-top:0pt; margin-right:25pt; }
+		p.rapat {line-height: 1.8; margin-left:30pt; text-align: justify; line-height: 80%; margin-bottom: 0pt;  margin-top:0pt; margin-right:25pt; }
+		p.nama1 {line-height: 1.8; margin-left:60pt; text-align: justify; margin-bottom: 4pt;  margin-top:0pt; margin-right:25pt; }
+		p.ttangan {margin-left:170pt; }
+		p.catatan { margin-left:30pt; font-size: 8pt; text-align: justify; margin-bottom: 4pt;  margin-top:0pt; margin-right:25pt; }
+		p.catatan1 { margin-left:45pt; font-size: 8pt; text-align: justify; margin-bottom: 4pt;  margin-top:0pt; margin-right:25pt; }
+
+		table.table1 {border-collapse: collapse; margin-left:30pt;}
+		table.table1 th {border: 1px solid black; }
+		table.table1 td {border: 1px solid black;}
+
+		table.table2 {border-collapse: collapse; }
+		table.table2 th {border: 1px solid rgb(252, 250, 250); }
+		table.table2 td {border: 1px solid rgb(250, 247, 247);}
+
+		table.table3 {border-collapse: collapse;  margin-left:30pt;}
+		table.table3 th {border: 1px solid rgb(252, 250, 250); }
+		table.table3 td {border: 1px solid rgb(250, 247, 247);}
+
+		hr {	width: 70%; height: 1px; 
+			text-align: center; color: #999999; 
+			margin-top: 8pt; margin-bottom: 8pt; }
+
+		a {	color: #000066; font-style: normal; text-decoration: underline; 
+			font-weight: normal; }
+
+		pre { font-family: DejaVuSansMono, monospaced; font-size: 9pt; margin-top: 5pt; margin-bottom: 5pt; }
+
+		h1 {	font-weight: normal; font-size: 26pt; color: #000066; 
+			font-family: DejaVuSansCondensed, sans-serif; margin-top: 18pt; margin-bottom: 6pt; 
+			border-top: 0.075cm solid #000000; border-bottom: 0.075cm solid #000000; 
+			text-align: ; page-break-after:avoid; }
+		h2 {	font-weight: bold; font-size: 12pt; color: #000066; 
+			font-family: DejaVuSansCondensed, sans-serif; margin-top: 6pt; margin-bottom: 6pt; 
+			border-top: 0.07cm solid #000000; border-bottom: 0.07cm solid #000000; 
+			text-align: ;  text-transform: uppercase; page-break-after:avoid; }
+		h3 {	font-weight: normal; font-size: 26pt; color: #000000; 
+			font-family: DejaVuSansCondensed, sans-serif; margin-top: 0pt; margin-bottom: 6pt; 
+			border-top: 0; border-bottom: 0; 
+			text-align: ; page-break-after:avoid; }
+		h4 {	font-weight: ; font-size: 13pt; color: #9f2b1e; 
+			font-family: DejaVuSansCondensed, sans-serif; margin-top: 10pt; margin-bottom: 7pt; 
+			font-variant: small-caps;
+			text-align: ;  margin-collapse:collapse; page-break-after:avoid; }
+		h5 {	font-family: Times; font-size: 14pt; text-align: center; font-weight: normal;  }
+
+		h6 {	font-family: Times; font-size: 12pt; text-align: center; font-weight: normal; }
+
+
+		.breadcrumb {
+			text-align: right; font-size: 8pt; font-family: DejaVuSerifCondensed, serif; color: #666666;
+			font-weight: bold; font-style: normal; margin-bottom: 6pt; }
+
+		.infobox { margin-top:10pt; background-color:#DDDDBB; text-align:center; border:1px solid #880000; }
+
+		.big { font-size: 1.5em; }
+		.red { color: #880000; }
+		.slanted { font-style: italic; }
+
+
